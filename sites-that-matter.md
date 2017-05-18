@@ -1,7 +1,7 @@
 
 
-## Top Site WIth Coding Tips
-<a href="http://programming-motherfucker.com/become.html">Programming, Motherfucker Do you speak it? </a>
+## Top Site With Coding Tips
+<a href="http://programming-motherfucker.com/become.html">Become a programmer</a>
 
 
 
